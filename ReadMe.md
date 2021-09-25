@@ -27,29 +27,36 @@ For easiest way to deploy this Bot click on the below button
 
 ## Mᴀᴅᴇ Bʏ
 
-<a href="https://t.me/mkspali"> <img src="https://img.shields.io/badge/Bestest-Master-ff69b4" /> </a>
-<a href="https://t.me/mkspali"><img src="https://img.shields.io/badge/Telegram-Mukesh%20Solanki-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
-
+<p align="center">
+    <a href="https://t.me/mkspali"> <img src="https://img.shields.io/badge/Bestest-Master-ff69b4" /> </a>
+    <a href="https://t.me/mkspali"><img src="https://img.shields.io/badge/Telegram-Mukesh%20Solanki-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+</p>
 
 ##
 
 ## Sᴜᴘᴘᴏʀᴛ
 
-<a href="https://t.me/BotMasterOfficial"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Channel-critical" /> </a>
-<a href="https://t.me/BotMasterOfficial"><img src="https://img.shields.io/badge/Telegram-Bot%20Master%20Official-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
-
+<p align="center">
+    <a href="https://t.me/BotMasterOfficial"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Channel-critical" /> </a>
+    <a href="https://t.me/BotMasterOfficial"><img src="https://img.shields.io/badge/Telegram-Bot%20Master%20Official-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+</p>
 
 ##
 
 ## Sᴏᴜʀᴄᴇ
 
-* <img src="https://img.shields.io/badge/Python-black" width=50px/>  <img src="https://img.shields.io/badge/Telethn-black" width=50px/>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-black" width=50px/>  <img src="https://img.shields.io/badge/Telethn-black" width=50px/>
+</p>
 
 ##
 
 ## Find RMCMG_ForceSubscribe_Bot on Telegram
-<a href="https://t.me/RMCMG_ForceSubscribe_Bot"> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
-<a href="https://t.me/RMCMG_ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Telegram-RMCMG%20Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+
+<p align="center">
+    <a href="https://t.me/RMCMG_ForceSubscribe_Bot"> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
+    <a href="https://t.me/RMCMG_ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Telegram-RMCMG%20Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+</p>
 
 ##
 
