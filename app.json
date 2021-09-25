@@ -1,0 +1,53 @@
+{
+    "name": "Force Sub Bot",
+    "description": "Python based bot to Force Users to sub a channel.",
+    "logo": "",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot"
+    ],
+    "logo": "https://user-images.githubusercontent.com/84823049/120094205-a4157400-c13c-11eb-9a72-8d1111809eb5.jpg",
+    "repository": "https://github.com/RMCMG/ForceSubscribe_Bot",
+    "website": "mkspali.me",
+    "success_url": "https://t.me/RMCMG",
+    "env": {
+        "API_HASH": {
+            "description": "You API HASH from my.telegram.org",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "You API ID from my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+        },
+        "CHANNEL": {
+            "description": "Channel @username for force join.",
+            "value": ""
+        },
+        "WELCOME_MSG": {
+            "description": "The welcome message to display. Can be formatted with {mention}, {title}, {fullname}, {username}, {name}, {last}, {channel}.",
+            "value": ""
+        },
+        "WELCOME_NOT_JOINED": {
+            "description": "The welcome message to display if user hasn't joined the channel. Can be formatted with {mention}, {title}, {fullname}, {username}, {name}, {last}, {channel}.",
+            "value": ""
+        },
+        "ON_JOIN": {
+            "description": "True/False. To configure if user must be muted directly on joining",
+            "value": "True"
+        },
+        "ON_NEW_MSG": {
+            "description": "True/False. If the user must be muted on sending a message without being in the channel.",
+            "value": "True"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
