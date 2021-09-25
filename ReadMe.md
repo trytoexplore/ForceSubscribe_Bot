@@ -2,7 +2,7 @@
 
 #
 
-[![Deploy](https://telegra.ph/file/02f79ae012c2c16f263c4.jpg)](https://heroku.com/deploy?template=https://github.com/BotMasterOfficial/ForceSubscribe_Bot.git)
+[![Deploy](https://telegra.ph/file/e75b8ff32e728d5780ee6.png)](https://heroku.com/deploy?template=https://github.com/BotMasterOfficial/ForceSubscribe_Bot.git)
 
 ##
 
