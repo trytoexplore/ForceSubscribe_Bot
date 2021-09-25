@@ -51,7 +51,7 @@ For easiest way to deploy this Bot click on the below button
 
 ##
 
-## Find RMCMG_ForceSubscribe_Bot on Telegram
+## Find Force Subscribe Bot on Telegram
 
 <p align="center">
     <a href="https://t.me/RMCMG_ForceSubscribe_Bot"> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
