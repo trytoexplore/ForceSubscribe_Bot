@@ -36,7 +36,7 @@ For easiest way to deploy this Bot click on the below button
 ## Sᴜᴘᴘᴏʀᴛ
 
 <a href="https://t.me/BotMasterOfficial"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Channel-critical" /> </a>
-<a href="https://t.me/BotMasterOfficial"><img src="https://img.shields.io/badge/Telegram-Bot%20Master%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+<a href="https://t.me/BotMasterOfficial"><img src="https://img.shields.io/badge/Telegram-Bot%20Master%20Official-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 
 
 ##
