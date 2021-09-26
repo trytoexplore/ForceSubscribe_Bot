@@ -1,6 +1,6 @@
 ##
 
-<a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://img.shields.io/badge/RMCMG%20Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=github" width=600px></a></p>
+<a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=github" width=600px></a></p>
 
 ##
 
