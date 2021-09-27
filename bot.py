@@ -1,4 +1,4 @@
-#    This file is part of the ForveSub distribution (https://github.com/RMCMG/ForceSubscribe_Bot).
+#    This file is part of the ForveSub distribution (https://github.com/BotMasterOfficial/ForceSubscribe_Bot).
 #    Copyright (c) 2021 RMCMG
 #    
 #    This program is free software: you can redistribute it and/or modify  
@@ -10,7 +10,7 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
 #    General Public License for more details.
 # 
-#    License can be found in < https://github.com/RMCMG/ForceSubscribe_Bot/blob/main/License> .
+#    License can be found in < https://github.com/BotMasterOfficial/ForceSubscribe_Bot/blob/main/License> .
 
 import logging
 import asyncio
@@ -144,8 +144,8 @@ async def _(event):
 
 @RMCMG.on(events.NewMessage(pattern="/start"))
 async def strt(event):
-    await event.reply(f"Hi. I'm a force subscribe bot made specially for @{channel}!\n\nCheckout @RMCMG :)", buttons=[Button.url("Channel", url=f"https://t.me/{channel}"), Button.url("Creator", url="https://t.me/mkspali")])
+    await event.reply(f"Hi. I'm a force subscribe bot made specially for @{channel}!\n\nCheckout @BotMaster_mkspali , @BotMasterOfficial :)", buttons=[Button.url("Channel", url=f"https://t.me/{channel}"), Button.url("Creator", url="https://t.me/mkspali"), Button.url("Source Code", url="https://github.com/BotMasterOfficial/ForceSubscribe_Bot")])
 
     
-print("ForceSub Bot has started.\nDo visit @RMCMG!")
+print("ForceSub Bot has started.\nDo visit Channel --> @BotMaster_mkspali Support Group --> @BotMasterOfficial!")
 RMCMG.run_until_disconnected()
