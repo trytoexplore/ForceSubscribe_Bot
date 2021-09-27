@@ -4,6 +4,10 @@
 
 ##
 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=BotMasterOfficial&repo=ForceSubscribe_Bot&theme=dark)
+
+#
+
 <p align="center">
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/stargazers"><img src="https://img.shields.io/github/stars/BotMasterOfficial/ForceSubscribe_Bot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
