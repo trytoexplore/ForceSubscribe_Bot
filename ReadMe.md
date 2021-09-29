@@ -1,15 +1,12 @@
 <p align="center"><a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=github" width=600px></a></p>
 <p align="center"><a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://telegra.ph/file/fb626dfa405c1d8c0d475.png"></a></p>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BotMasterOfficial&repo=ForceSubscribe_Bot&theme=dark" /></a></p>
-
 #
-
 <p align="center">
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/stargazers"><img src="https://img.shields.io/github/stars/BotMasterOfficial/ForceSubscribe_Bot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center"><a href="https://deepsource.io/gh/pokurt/ForceSubscribe_Bot/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" width=500px /></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BotMasterOfficial&repo=ForceSubscribe_Bot&theme=dark" /></a></p>
 <p align="center">
     <a href="https://www.codacy.com/gh/BotMasterOfficial/ForceSubscribe_Bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BotMasterOfficial/ForceSubscribe_Bot&amp;utm_campaign=Badge_Grade"><img src="https://img.shields.io/codacy/grade/17b7491f735349aebb945feaed58743b?color=gold&logo=codacy&logoColor=gold&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"> <img src="https://img.shields.io/github/repo-size/BotMasterOfficial/ForceSubscribe_Bot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
