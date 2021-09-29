@@ -17,8 +17,10 @@
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/commits/mukesh"> <img src="https://img.shields.io/github/last-commit/BotMasterOfficial/ForceSubscribe_Bot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/issues"> <img src="https://img.shields.io/github/issues/BotMasterOfficial/ForceSubscribe_Bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/network/members"> <img src="https://img.shields.io/github/forks/BotMasterOfficial/ForceSubscribe_Bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://perso.crans.org/besson/LICENSE.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" width=100px/></a>
+    <a href="https://perso.crans.org/besson/LICENSE.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
     <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /></a>
+    <a href="https://GitHub.com/BotMasterOfficial/ForceSubscribe_Bot.js/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /></a>
+    <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" /></a>
 </p>
 
 ##
@@ -61,12 +63,6 @@ For easiest way to deploy this Bot click on the below button
     <a href="https://t.me/RMCMG_ForceSubscribe_Bot"> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
     <a href="https://t.me/RMCMG_ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Telegram-RMCMG%20Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 </p>
-
-##
-
-## A modular Telegram Python bot running on python3 with a sqlalchemy database.
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/BotMasterOfficial/ForceSubscribe_Bot.js/graphs/commit-activity) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/BotMasterOfficial/ForceSubscribe_Bot/) 
 
 #
 
