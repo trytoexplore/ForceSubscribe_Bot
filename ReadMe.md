@@ -19,13 +19,13 @@
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" /></a>
 </p>
 
-##
+#
 
 <p align="center">𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲</p>
 <p align="center">For easiest way to deploy this Bot click on the below button</p>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/BotMasterOfficial/ForceSubscribe_Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
-##
+#
 
 <p align="center">𝐌𝐚𝐝𝐞 𝐁𝐲</p>
 
@@ -34,7 +34,7 @@
     <a href="https://t.me/mkspali"><img src="https://img.shields.io/badge/Telegram-Mukesh%20Solanki-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 </p>
 
-##
+#
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩</p>
 
@@ -43,7 +43,7 @@
     <a href="https://t.me/BotMasterOfficial"><img src="https://img.shields.io/badge/Telegram-Bot%20Master%20Official-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 </p>
 
-##
+#
 
 <p align="center">𝐒𝐨𝐮𝐫𝐜𝐞𝐬</p>
 
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Python-black" width=50px/>  <img src="https://img.shields.io/badge/Telethn-black" width=50px/>
 </p>
 
-##
+#
 
 <p align="center">𝐅𝐢𝐧𝐝 𝐅𝐨𝐫𝐜𝐞 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐁𝐨𝐭 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦</p>
 
@@ -60,6 +60,8 @@
     <a href="https://t.me/RMCMG_ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Telegram-RMCMG%20Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 </p>
 
+#
+<p align="center">𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧 𝐎𝐭𝐡𝐞𝐫 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬</p>
 <p align="center">
 <a href="https://www.facebook.com/mkspali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="40" width="40" /></a>
 <a href="https://www.instagram.com/mukeshsolankiofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40" width="40" /></a>
