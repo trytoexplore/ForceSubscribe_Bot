@@ -1,10 +1,8 @@
-##
+<p align="center"><a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=github" width=600px></a></p>
+<a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://telegra.ph/file/fb626dfa405c1d8c0d475.png"></a></p>
 
-<a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=github" width=600px></a></p>
 
-##
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=BotMasterOfficial&repo=ForceSubscribe_Bot&theme=dark)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BotMasterOfficial&repo=ForceSubscribe_Bot&theme=dark" /></a></p>
 
 #
 
@@ -64,9 +62,3 @@
     <a href="https://t.me/RMCMG_ForceSubscribe_Bot"> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
     <a href="https://t.me/RMCMG_ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Telegram-RMCMG%20Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 </p>
-
-#
-
-[![Deploy](https://telegra.ph/file/e75b8ff32e728d5780ee6.png)](https://heroku.com/deploy?template=https://github.com/BotMasterOfficial/ForceSubscribe_Bot.git)
-
-#
