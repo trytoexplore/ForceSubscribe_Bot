@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=github" width=600px></a></p>
-<a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://telegra.ph/file/fb626dfa405c1d8c0d475.png"></a></p>
+<p align="center"><a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"><img src="https://telegra.ph/file/fb626dfa405c1d8c0d475.png"></a></p>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BotMasterOfficial&repo=ForceSubscribe_Bot&theme=dark" /></a></p>
