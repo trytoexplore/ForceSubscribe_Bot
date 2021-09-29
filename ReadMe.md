@@ -60,4 +60,6 @@
     <a href="https://t.me/RMCMG_ForceSubscribe_Bot"><img src="https://img.shields.io/badge/Telegram-RMCMG%20Force%20Subscribe%20Bot-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 </p>
 
-<p align="center"><a href="https://www.facebook.com/mkspali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="40" width="40" /></a></p>
+<p align="left">
+<a href="https://t.me/mkspali" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" height="40" width="40" /></a>
+<a href="https://www.facebook.com/mkspali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="40" width="40" /></a></p>
