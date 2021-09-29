@@ -12,7 +12,7 @@
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/stargazers"><img src="https://img.shields.io/github/stars/BotMasterOfficial/ForceSubscribe_Bot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://app.codacy.com/manual/BotMasterOfficial/ForceSubscribe_Bot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://www.codacy.com/gh/BotMasterOfficial/ForceSubscribe_Bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BotMasterOfficial/ForceSubscribe_Bot&amp;utm_campaign=Badge_Grade"><img src="https://img.shields.io/codacy/grade/17b7491f735349aebb945feaed58743b?color=gold&logo=codacy&logoColor=gold&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot"> <img src="https://img.shields.io/github/repo-size/BotMasterOfficial/ForceSubscribe_Bot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/commits/mukesh"> <img src="https://img.shields.io/github/last-commit/BotMasterOfficial/ForceSubscribe_Bot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/issues"> <img src="https://img.shields.io/github/issues/BotMasterOfficial/ForceSubscribe_Bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
