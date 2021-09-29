@@ -18,6 +18,7 @@
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/issues"> <img src="https://img.shields.io/github/issues/BotMasterOfficial/ForceSubscribe_Bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/BotMasterOfficial/ForceSubscribe_Bot/network/members"> <img src="https://img.shields.io/github/forks/BotMasterOfficial/ForceSubscribe_Bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://perso.crans.org/besson/LICENSE.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" width=100px/></a>
+    <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /></a>
 </p>
 
 ##
@@ -66,7 +67,6 @@ For easiest way to deploy this Bot click on the below button
 ## A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/BotMasterOfficial/ForceSubscribe_Bot.js/graphs/commit-activity) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/BotMasterOfficial/ForceSubscribe_Bot/) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 #
 
