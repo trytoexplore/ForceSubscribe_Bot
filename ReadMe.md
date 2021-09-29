@@ -61,7 +61,7 @@
 </p>
 
 #
-<p align="center">𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧 𝐎𝐭𝐡𝐞𝐫 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬</p>
+<p align="center">𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚</p>
 <p align="center">
 <a href="https://www.facebook.com/mkspali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="40" width="40" /></a>
 <a href="https://www.instagram.com/mukeshsolankiofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40" width="40" /></a>
