@@ -144,8 +144,8 @@ async def _(event):
 
 @RMCMG.on(events.NewMessage(pattern="/start"))
 async def strt(event):
-    await event.reply(f"Hi. I'm a force subscribe bot made specially for @{channel}!\n\nCheckout @BotMaster_mkspali , @BotMasterOfficial :)", buttons=[Button.url("Channel", url=f"https://t.me/{channel}"), Button.url("Creator", url="https://t.me/mkspali"), Button.url("Source Code", url="https://github.com/BotMasterOfficial/ForceSubscribe_Bot")])
+    await event.reply(f"Hi. I'm a force subscribe bot made specially for @{channel}!\n\nCheckout @LG_Bot_Updates :)", buttons=[Button.url("Channel", url=f"https://t.me/{channel}"), Button.url("Creator", url="https://t.me/LG_Bot_Updates"), Button.url("Source Code", url="https://t.me/LG_Bot_Updates")])
 
     
-print("ForceSub Bot has started.\nDo visit Channel --> @BotMaster_mkspali Support Group --> @BotMasterOfficial!")
+print("ForceSub Bot has started.\nDo visit Channel --> @LG_Bot_Updates  Support Group --> @LG_Bot_Updates!")
 RMCMG.run_until_disconnected()
